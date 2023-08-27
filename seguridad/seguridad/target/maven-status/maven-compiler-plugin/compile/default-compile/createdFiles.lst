@@ -1,0 +1,13 @@
+com\example\seguridad\repository\IAuthorityRepository.class
+com\example\seguridad\dto\PersonaDtoRequest.class
+com\example\seguridad\models\Authority.class
+com\example\seguridad\restControllers\HomeController.class
+com\example\seguridad\SeguridadApplication.class
+com\example\seguridad\dto\PersonaDtoResponse.class
+com\example\seguridad\repository\IUserRepository.class
+com\example\seguridad\controllers\PersonaController.class
+com\example\seguridad\models\User.class
+com\example\seguridad\service\SecurityUserDetailsService.class
+com\example\seguridad\utils\AuthorityName.class
+com\example\seguridad\configuracion\SecurityConfig.class
+com\example\seguridad\configuracion\WebSecurityConfig.class
